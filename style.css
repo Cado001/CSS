@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(0, 0, 255);
+    color: gold;
+    font-family: monospace;
+}
+
+#box{
+    background-color: black;
+    width: 300px;
+    height: 300px;
+    border: 2px solid yellow;
+    margin: auto;
+    border-radius: 12px;
+}
+
+.box__text{
+padding: 100px;
+}
+#circle{
+    background-color: black;
+    width: 300px;
+    height: 300px;
+    border: 2px solid yellow;
+    margin: auto;
+    border-radius: 175px;
+}
+
+.circle__text{
+padding: 100px;
+}
